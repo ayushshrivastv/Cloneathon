@@ -7,7 +7,7 @@ import { AuthProvider } from "@/context/AuthContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "cleverly - Advanced AI Research & Deployment",
+  title: "Cloneathon T3 Chat",
   description: "Pioneering AI research and deployment solutions for a smarter future.",
   icons: {
     icon: "/favicon.ico",
